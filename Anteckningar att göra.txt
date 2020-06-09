@@ -1,0 +1,3 @@
+På uppgift 3. Skapa ett strukturdiagram.
+
+Uppgift 4. Programmet funkar men ger inte rätt resultat. lös det!

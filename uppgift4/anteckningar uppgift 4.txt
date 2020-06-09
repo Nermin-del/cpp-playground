@@ -1,0 +1,1 @@
+den räknar ut summan men blir ändå fel i sluträkningen.
